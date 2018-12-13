@@ -7,6 +7,8 @@ public class Coontroolleer {
 		StringBuffer sb=new StringBuffer();
 		sb.append("로아하고싶다");
 		System.out.println(sb.toString());
+		
+		System.out.println("김이박");
 
 	}
 
