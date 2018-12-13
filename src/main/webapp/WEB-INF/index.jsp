@@ -9,6 +9,6 @@
 <body>
 	<h1>test</h1>
 	<p>asdfasdf</p>
-	<h2>내이름은 백호준입니다.</h2>
+	<p>최영인 테스트.</p>
 </body>
 </html>
